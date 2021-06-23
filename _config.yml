@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Nowrin Akter
-middle_name: 
+first_name: Nowrin 
+middle_name: Akter
 last_name: Surovi
 email: surovi_akter@mymail.sutd.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -43,10 +43,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: nowrin0102 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: https://www.linkedin.com/in/nowrin-akter-surovi-b51702108/ # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
