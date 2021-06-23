@@ -359,3 +359,16 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
+   
+   
+   ##How to ADD new comtents and deoply upon the previous one
+   **1. Can change nowrinsurovi in my local computer ( it is C:\Users\Nowrin\nowrinsurovi )**
+   **2. after changing, open git bash from my computer **
+   **3.  cd nowrinsurovi
+4.ls
+   5.git status
+   6.git add *
+7.git status (to check the cooment I add looks green)
+   8. git commit -m "changes"
+
+   
