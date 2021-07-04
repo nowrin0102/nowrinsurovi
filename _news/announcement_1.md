@@ -4,7 +4,7 @@ date: 2020-12-21
 inline: true
 ---
 
-Pass PhD qualyfing Exam.
+Passed PhD qualyfing Exam.
 
 <!--
 layout: post
