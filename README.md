@@ -111,6 +111,8 @@ $ bundle exec jekyll serve
 Now, feel free to customize the theme however you like (don't forget to change the name!).
 After you are done, **commit** your final changes.
 
+
+
 #### Deployment
 
 Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.
@@ -370,5 +372,8 @@ Since then, it got a full re-write of the styles and many additional cool featur
    6.git add *
 7.git status (to check the cooment I add looks green)
    8. git commit -m "changes"
+   9.git push
+   10. bin/deploy[it ask to procced , i write y, it depoly and done]
+   
 
    
