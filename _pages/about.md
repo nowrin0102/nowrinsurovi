@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: surovi.jpeg
+  image: nowrin.jpg
   address: >
     <p>+65 91403291</p>
     <p>85 circuit Road</p>
