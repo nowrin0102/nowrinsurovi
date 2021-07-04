@@ -7,15 +7,18 @@ first_name: Nowrin
 middle_name: Akter
 last_name: Surovi
 email: surovi_akter@mymail.sutd.edu.sg
+
+<!--
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
+  
+-->
 icon: 🔥 # the emoji used as the favicon
-url:  # the base hostname & protocol for your site
+url: nowrinsurovi # the base hostname & protocol for your site
 baseurl: /nowrinsurovi # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -46,7 +49,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: nowrin0102 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: https://www.linkedin.com/in/nowrin-akter-surovi-b51702108/ # your LinkedIn user name
+linkedin_username:https://www.linkedin.com/in/nowrin-akter-surovi-b51702108 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -59,7 +62,8 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
+  Best way to reach me is by email.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -68,16 +72,17 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: nowrinsurovi  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: false  # your blog must have a name for it to show up in the nav bar
+#blog_description: a simple whitespace theme for academics543
+#permalink: /blog/:year/:title/
+
 
 # Pagination
 pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: nowrinsurovi # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -92,8 +97,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
-news_limit: 5
+  
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -143,8 +148,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Surovi
+  first_name: [Nowrin, Akter]
 
   style: apa
   locale: en

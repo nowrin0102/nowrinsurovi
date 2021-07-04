@@ -1,7 +1,14 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-12-21
 inline: true
 ---
 
-A simple inline announcement.
+Pass PhD qualyfing Exam.
+
+<!--
+layout: post
+title: A long announcement with details
+date: 2020-12-1 
+inline: false
+inline: true-->
