@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Nowrin is a Phd student at Engineering Product Developement pillar of SUTD. She is currently working on defect detection in metal additive manufacturing.
+Nowrin is a PhD student at the Engineering Product Development (EPD) pillar of SUTD. She is currently working on defect detection in metal additive manufacturing.
 
-Prior to that, she was a Research Assistant at Bangladesh Council of Scientific and Industrial Research (BCSIR). 
+Prior to that, she was a Research Assistant at the Bangladesh Council of Scientific and Industrial Research (BCSIR). 
 
 Her research interest includes additive manufacturing, signal and image processing, computer vision, machine and deep learning.  
 
