@@ -7,15 +7,15 @@ nav: true
 ---
 ***
 
-1. Machine Element Design, 2021.
 
 
-Syllabus link: /assets/pdf/30.105_Syllabus_(Fall21).pdf.
+1.Machine Element Design, 2021.
+Syllabus link:<a href='/assets/pdf/30.105_Syllabus_(Fall21).pdf.'>Fall21</a>
 
 
 2.Structure and Materials, 2022.
 
 
-Syllabus link: pdf: {30.001 Syllabus Spring 22.pdf'}
+Syllabus link: /assets/pdf/30.001_Syllabus_Spring_22.pdf'
 
 ***
