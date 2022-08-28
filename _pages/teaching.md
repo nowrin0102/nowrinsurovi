@@ -9,8 +9,8 @@ nav: true
 
 <ul class="list-group">
 
-    <li class="list-group-item list-group-item-action list-group-item-secondary">Machine Element Design(): <a href="/assets/pdf/30.105_Syllabus_(Fall21).pdf">Fall 2021</a> </li>
-    <li class="list-group-item list-group-item-action list-group-item-secondary">Structure and Materials(): <a href="/assets/pdf/30.001_Syllabus_Spring_22.pdf">Spring 2022 </a>  </li>
+    <li class="list-group-item list-group-item-action list-group-item-secondary">Machine Element Design(): <a href="/nowrinsurovi/assets/pdf/30.105_Syllabus_(Fall21).pdf">Fall 2021</a> </li>
+    <li class="list-group-item list-group-item-action list-group-item-secondary">Structure and Materials(): <a href="/nowrinsurovi/assets/pdf/30.001_Syllabus_Spring_22.pdf">Spring 2022 </a>  </li>
 </ul>
 <!--
 1.Machine Element Design, 2021.
