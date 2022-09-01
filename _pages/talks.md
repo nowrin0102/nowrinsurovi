@@ -25,7 +25,7 @@ nav: true
                 <ul> 
                     <li> <b>Graph and Hypergraph visualisation</b>. (<a href="{{ '/assets/pdf/viz_talk.pdf' | relative_url }}">Slides</a>)</li>
                 </ul>
-            </li> -->
+            </li> 
         </ul>
     </header> 
-</div>
+</div>-->
