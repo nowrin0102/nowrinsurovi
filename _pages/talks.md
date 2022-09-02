@@ -15,11 +15,11 @@ nav: true
                     <li> <b> Real time identification of Defective beads </b>  <a href="/nowrinsurovi/assets/pdf/guest_lecture.pptx">SUTD Talk</a>  </li>
                     <!-- <li> <b> Practical machine learning using Amazon Sagemaker services</b> (<a href="#">Slides</a>) </li>
                 </ul>
-            </li>
-           <!--  <li class="list-group-item list-group-item-action list-group-item-secondary"> Data Management and Warehousing (BT5110), 2019
+            </li>-->
+            <li class="list-group-item list-group-item-action list-group-item-secondary"> DManD Research Seminar, 21st Jan 2022
                 <ul>
-                    <li> <b> Building a retail sales data mart using Pentaho Data Integration tool</b> (<a href="https://drive.google.com/drive/folders/1sEieIecDvBtizmvxsHGaENmpk8GvHJma?usp=sharing">Slides, Datasets and Kettle transformation files</a>) </li>
-                </ul>
+                    <li> <b> Hybrid Wire-Arc Additive Manufacturing</b> </li>
+                <!-- </ul>
             </li>
             <li class="list-group-item list-group-item-action list-group-item-secondary"> Information visualisation (CS5246), 2018
                 <ul> 
