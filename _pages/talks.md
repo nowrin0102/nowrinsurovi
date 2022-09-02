@@ -15,7 +15,7 @@ nav: true
                     <li> <b> Real time identification of Defective beads </b>  <a href="/nowrinsurovi/assets/pdf/guest_lecture.pptx">SUTD Talk</a>  </li>
                     <!-- <li> <b> Practical machine learning using Amazon Sagemaker services</b> (<a href="#">Slides</a>) </li>-->
                 </ul>
-            </li>-->
+            </li>
             <li class="list-group-item list-group-item-action list-group-item-secondary"> DManD Research Seminar, 21st Jan 2022
                 <ul>
                     <li> <b> Hybrid Wire-Arc Additive Manufacturing</b> </li>
