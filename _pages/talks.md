@@ -34,9 +34,7 @@ nav: true
         <h4 class="post-title">Research talks</h4>
         <ul class="list-group">
 			<ul class="list-group">
-            <li class="list-group-item list-group-item-action list-group-item-secondary"> AM Conference 2022 talk on <b>Process Map Generation of Geometrically Uniform Beads Using Support Vector Machine</b> <a href="/nowrinsurovi/assets/pdf/AM_con.pdf">Slides</a></li>
-            <li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2022 talk on <b>A Study of Machine Learning Framework for Enabling Early Defect Detection in Wire Arc Additive Manufacturing Processes</li>
-            <li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2021 talk on </b> A Study on the Acoustic Signal Based Frameworks for the Real-Time Identification of Geometrically Defective Wire Arc Bead</b> </li>
-        </ul>
-    </header>
-</div>        
+            <li class="list-group-item list-group-item-action list-group-item-secondary"> SUTD AM Conference 2022 talk on <b>Process Map Generation of Geometrically Uniform Beads Using Support Vector Machine</b> <a href="/nowrinsurovi/assets/pdf/AM_con.pdf">Slides</a></li>
+            <li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2022 talk on <b>A Study of Machine Learning Framework for Enabling Early Defect Detection in Wire Arc Additive Manufacturing Processes</b> </li>
+            <li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2021 talk on <b>A Study on the Acoustic Signal Based Frameworks for the Real-Time Identification of Geometrically Defective Wire Arc Bead</b> </li>
+       
