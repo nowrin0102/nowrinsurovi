@@ -6,18 +6,18 @@ description: <a href="#">Singapore University of Technology and Design(SUTD)</a>
 
 profile:
   align: right
-  image: surovi.jpeg
-  address: >
+  image: nowrin.jpg
+<!--  address: >
     <p>+65 91403291</p>
     <p>85 circuit Road</p>
-    <p>Singapore 370085</p>
+    <p>Singapore 370085</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Nowrin is a PhD student at the Engineering Product Development (EPD) pillar of SUTD. She is currently working on defect detection in metal additive manufacturing.
+Nowrin is a PhD candidate at the Engineering Product Development (EPD) pillar of SUTD. She is currently working on defect detection in metal additive manufacturing.
 
 Prior to that, she was a Research Assistant at the Bangladesh Council of Scientific and Industrial Research (BCSIR). 
 
