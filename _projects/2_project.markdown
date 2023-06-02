@@ -1,4 +1,5 @@
 ---
+<!--
 layout: page
 title: M.Sc Thesis
 description: Development an algorithm for analysing different skin diseases
@@ -6,6 +7,15 @@ using image processing method.
 importance: 2
 category: work
 
+----->
+layout: page
+title: Website Development.
+description: Django poll application
+<!--img: /assets/img/7.jpg-->
+redirect: https://surovi0102.herokuapp.com/
+importance: 1
+category: fun
+---
 1. Collected different diseased skin images such as eczema, scabies, pyoderma, ringworm, psoriasis, MRSA etc.
 2. Extracted different features from the digital skin images such as mean, contrast, uniformity, reverse smoothness, entropy etc. and based
 on the features differentiate the category of skin diseases.
