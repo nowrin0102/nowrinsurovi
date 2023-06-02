@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PhD Thesis
-description: Geometric defects identification using acoustic based machine learning Models for Wire Arc Additive Manufacturing(WAAM)
+description: Geometric defects identification using acoustic based machine learning Models for Wire Arc Additive Manufacturing(WAAM).
 <!--img: /assets/img/DSC_0083.jpg-->
 importance: 1
 category: work
@@ -13,6 +13,7 @@ category: work
 manufacturing process.
 5. Build process parameter maps based on the probability for different materials so that good quality printing process parameters can be
 achieved.
+
 <!-----
     layout: page
     title: project
