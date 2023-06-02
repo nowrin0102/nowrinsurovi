@@ -3,8 +3,7 @@ layout: page
 title: M.Sc Thesis
 description: Development an algorithm for analysing different skin diseases
 using image processing method.
-<!--img: /assets/img/DSC_0083.jpg-->
-importance: 2
+importance: 7
 category: work
 
 1. Collected different diseased skin images such as eczema, scabies, pyoderma, ringworm, psoriasis, MRSA etc.
