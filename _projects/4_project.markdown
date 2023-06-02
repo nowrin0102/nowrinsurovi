@@ -1,16 +1,20 @@
 ---
 layout: page
-title: Intelligent Robotic Manipulation System with Deep Learning.
-description: Semantic segmentation
+title: Internship in SIMTech, Singapore
+description: Intelligent Robotic Manipulation System with Deep Learning.
 img:
-importance: 3
+importance: 4
 category: work
 ---
 
-
+<!--
 Semantic Segmentation on ADE20K dataset using FCN+Mobilenetv2 and
-FCN+ShuffleNetv2 network.
+FCN+ShuffleNetv2 network.-->
 
+1. Built a lightweight semantic segmentation model using ADE20K dataset and FCN+Mobilenetv2 and FCN+ShuffleNetv2 networks.
+2. Performed literature review on semantic segmentation model with a fisheye camera to navigate a system for mobile robots
+
+<!--
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
@@ -19,7 +23,7 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
-<!--
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
@@ -76,3 +80,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
+-->
