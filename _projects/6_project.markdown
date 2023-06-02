@@ -10,4 +10,3 @@ category: work
 2. Compared experimental and theoretical efficiency of silicon solar cell and gave a conclusion that short circuit current density influence
 the results of efficiency.
 
-```
