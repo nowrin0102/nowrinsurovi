@@ -6,7 +6,7 @@ description: Geometric defects identification using acoustic based machine learn
 importance: 1
 category: work
 ---
----
+<!-----
     layout: page
     title: project
     description: a project with a background image
