@@ -6,3 +6,4 @@ inline: true
 
 participated and presented paper in [International Conference of Additive Manufacturing for a Better World, 2022](https://amconference.sutd.edu.sg/)
 
+Paper accepted in [Virtual and Physical Prototyping](https://www.tandfonline.com/journals/nvpp20)
