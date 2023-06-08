@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Graduate Student,<a href="#">Singapore University of Technology and Design(SUTD)</a>.
+description: Graduate Student, <a href="#">Singapore University of Technology and Design(SUTD)</a>.
 
 profile:
   align: right
