@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Singapore University of Technology and Design(SUTD)</a>, 8 Somapah Rd, Singapore 487372 
+description: Graduate Student,<a href="#">Singapore University of Technology and Design(SUTD)</a>
 
 profile:
   align: right
@@ -24,7 +24,7 @@ Prior to that, she was a Research Assistant at the Bangladesh Council of Scienti
 Her research interest includes additive manufacturing, signal and image processing, computer vision, machine and deep learning.  
 
 
-<a href='assets/pdf/Nowrin_CV.pdf'>Curriculum Vitae</a>
+<a href='assets/pdf/Nowrin_akter_surovi.pdf'>Curriculum Vitae</a>
 
 <!--
 Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. 
