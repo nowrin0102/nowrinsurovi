@@ -7,7 +7,14 @@ importance: 1
 category: work
 
 
-<h4>WAAM Workflow and Focused research:</h4> <src="{{ '/assets/img/workflow.png'}}" >
+<h4>WAAM Workflow and Focused research:</h4>
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/workflow.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
  
 <h4>Task:</h4>
 1. Collect and process the Acoustic signals during the metal 3D printing process.
