@@ -2,7 +2,6 @@
 layout: page
 title: PhD Thesis
 description: Acoustic Based Geometric defects identification and process parameter map generation using machine learning Models for Wire Arc Additive Manufacturing(WAAM).
-<!--img: /assets/img/DSC_0083.jpg-->
 importance: 1
 category: work
 
