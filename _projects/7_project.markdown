@@ -8,12 +8,13 @@ category: work
 ---
 
 <h4>WAAM Workflow and Focused research:</h4>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-    <img width= 400 height = 300 src="{{ '/assets/img/workflow.png' | relative_url }}" alt="" title="Multi-objective optimisation"/>
+    <img  src="{{ '/assets/img/workflow.png' | relative_url }}" alt="" title="workflow.png"/>
     </div>
 </div>
-<div class="caption"> Non-dominated solutions of a 2-objective optimisation problem using evolutionary algorithm. </div>
+<div class="caption"> WAAM different steps and My focused area </div>
 <!-----
 </div>
 <div class="row">
@@ -21,7 +22,7 @@ category: work
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/workflow.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-<!--
+-->
 <h4>Task:</h4>
 1. Collect and process the Acoustic signals during the metal 3D printing process.
 2. Collect and analyze the 3D point cloud from the printed object for experimental purpose.
@@ -40,5 +41,5 @@ achieved.
 <!--
 during metal additive manufacturing
 process.
--->
+
 ```
