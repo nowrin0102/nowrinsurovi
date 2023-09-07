@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Graduate Student, <a href="#">Singapore University of Technology and Design(SUTD)</a>.
+description: <a href="#">Singapore University of Technology and Design(SUTD)</a>.
 
 profile:
   align: right
@@ -17,11 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Nowrin is a PhD candidate at the Engineering Product Development (EPD) pillar of SUTD. She is currently working on defect detection in metal additive manufacturing.
+Nowrin graduated from SUTD with a PhD in August 2023. Her research interests include Additive Manufacturing, Machine learning, Signal and Image processing.
 
 Prior to that, she was a Research Assistant at the Bangladesh Council of Scientific and Industrial Research (BCSIR). 
-
-Her research interest includes additive manufacturing, signal and image processing, computer vision, machine and deep learning.  
+ 
 
 
 <a href='assets/pdf/Nowrin_akter_surovi.pdf'>Curriculum Vitae</a>
