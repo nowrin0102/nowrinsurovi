@@ -5,7 +5,9 @@ description: Acoustic Based Geometric defects identification and process paramet
 <!--img: /assets/img/DSC_0083.jpg-->
 importance: 1
 category: work
-<h4>WAAM Workflow and Focused research:</h4> <img width= 400 height = 300 src="{{ '/assets/img/workflow.png' | relative_url }}" >
+
+
+<h4>WAAM Workflow and Focused research:</h4> <src="{{ '/assets/img/workflow.png' }}" >
  
 <h4>Task:</h4>
 1. Collect and process the Acoustic signals during the metal 3D printing process.
