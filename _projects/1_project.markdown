@@ -1,11 +1,13 @@
 ---
 layout: page
 title: PhD Thesis
-description: Geometric defects identification using acoustic based machine learning Models for Wire Arc Additive Manufacturing(WAAM).
+description: Acoustic Based Geometric defects identification and process parameter map generation using machine learning Models for Wire Arc Additive Manufacturing(WAAM).
 <!--img: /assets/img/DSC_0083.jpg-->
 importance: 1
 category: work
----
+<h4>WAAM Workflow and Focused research:</h4> <img width= 400 height = 300 src="{{ '/assets/img/workflow.png' | relative_url }}" >
+ 
+<h4>Task:</h4>
 1. Collect and process the Acoustic signals during the metal 3D printing process.
 2. Collect and analyze the 3D point cloud from the printed object for experimental purpose.
 3. Develop a novel dataset labeling algorithm to classify good and defective signals.
