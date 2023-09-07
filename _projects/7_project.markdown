@@ -8,7 +8,12 @@ category: work
 ---
 
 <h4>WAAM Workflow and Focused research:</h4>
-{% include figure.html path="assets/img/workflow.png'" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+    <img width= 400 height = 300 src="{{ '/assets/img/workflow.png' | relative_url }}" alt="" title="Multi-objective optimisation"/>
+    </div>
+</div>
+<div class="caption"> Non-dominated solutions of a 2-objective optimisation problem using evolutionary algorithm. </div>
 <!-----
 </div>
 <div class="row">
