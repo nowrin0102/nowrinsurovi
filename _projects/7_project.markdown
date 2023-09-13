@@ -8,6 +8,12 @@ category: work
 ---
 
 <h4>WAAM Workflow and Focused research:</h4>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+    <img width= 400 height = 300 src="{{ '/assets/img/workflow.jpg' | relative_url }}" alt="" title="Multi-objective optimisation"/>
+    </div>
+</div>
+<div class="caption"> WAAM different steps and My focused area </div>
 <!-----
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
