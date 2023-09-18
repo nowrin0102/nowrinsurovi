@@ -7,4 +7,4 @@ inline: true
 Paper published in [International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2021](https://event.asme.org/IDETC-CIE)
 
 -->
-Presented paper in [Solid Freedom Fabrication Symposium, 2023](https://www.sffsymposium.org/) in Austin.
+Presented paper in [Solid Freedom Fabrication Symposium, 2023](https://www.sffsymposium.org/) in Austin, USA.

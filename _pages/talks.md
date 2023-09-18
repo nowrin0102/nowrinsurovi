@@ -21,6 +21,7 @@ nav: true
                     <li> <b> Hybrid Wire-Arc Additive Manufacturing</b> </li>
                  </ul>
             </li>
+			
             <!--<li class="list-group-item list-group-item-action list-group-item-secondary"> Information visualisation (CS5246), 2018
                 <ul> 
                     <li> <b>Graph and Hypergraph visualisation</b>. (<a href="{{ '/assets/pdf/viz_talk.pdf' | relative_url }}">Slides</a>)</li>
@@ -36,8 +37,13 @@ nav: true
 			<ul class="list-group">
 			<li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2023 talk on <b>A Heuristic Approach to Classify Geometrically Defective Bead Segments</b> </li>
             <li class="list-group-item list-group-item-action list-group-item-secondary"> SOLID FREEDOM FABRICATION SYMPOSIUM 2023 talk on <b>Multi-Bead and Multi-Layer Printing Geometric Defect Identification Using Single Bead Trained Models</b> </li>
-            <!--
 			<li class="list-group-item list-group-item-action list-group-item-secondary"> SUTD AM Conference 2022 talk on <b>Process Map Generation of Geometrically Uniform Beads Using Support Vector Machine</b> <a href="/nowrinsurovi/assets/pdf/AM_con.pdf">Slides</a></li>
-            <li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2022 talk on <b>A Study of Machine Learning Framework for Enabling Early Defect Detection in Wire Arc Additive Manufacturing Processes</b> </li>
+            <!--
+			<li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2022 talk on <b>A Study of Machine Learning Framework for Enabling Early Defect Detection in Wire Arc Additive Manufacturing Processes</b> </li>
             <li class="list-group-item list-group-item-action list-group-item-secondary"> IDETC-CIE 2021 talk on <b>A Study on the Acoustic Signal Based Frameworks for the Real-Time Identification of Geometrically Defective Wire Arc Bead</b> </li>
        -->
+	   
+	   
+	   
+	   
+	   
