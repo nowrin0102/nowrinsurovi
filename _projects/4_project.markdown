@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internship in SIMTech, Singapore
+title: Internship in SIMTech, A*STAR, Singapore
 description: Intelligent Robotic Manipulation System with Deep Learning.
 img:
 importance: 4
@@ -12,7 +12,15 @@ Semantic Segmentation on ADE20K dataset using FCN+Mobilenetv2 and
 FCN+ShuffleNetv2 network.-->
 
 1. Built a lightweight semantic segmentation model using ADE20K dataset and FCN+Mobilenetv2 and FCN+ShuffleNetv2 networks.
-2. Performed literature review on semantic segmentation model with a fisheye camera to navigate a system for mobile robots
+2. Performed literature review on semantic segmentation model with a fisheye camera to navigate a system for mobile robots.
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+    <img width= 400 height = 300 src="{{ '/assets/img/segmentation.jpg' | relative_url }}" alt="" title="workflow.png"/>
+    </div>
+</div>
+<div class="caption"> ADE20k dataset (original image and segmented image), using network: FCN_Mobilenetv2</div>
 
 <!--
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
