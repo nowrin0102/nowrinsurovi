@@ -12,7 +12,7 @@ on the features differentiate the category of skin diseases.
 3. Developed an algorithm for analyzing and diagnosing skin diseases to a good degree of accuracy that may help dermatologists in making
 decisions
 
-<h4 Publication:</h4>
+<h4> Publication:</h4>
 If you are interested in the details, please refer to my paper:
 
 <a href = "https://www.researchgate.net/publication/324029657_Study_and_development_of_algorithm_of_different_skin_diseases_analysis_using_image_processing_method">Researching and developing algorithms for various types of skin diseases.
