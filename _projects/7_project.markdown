@@ -49,4 +49,3 @@ achieved.
 during metal additive manufacturing
 process.
 -->
-```
