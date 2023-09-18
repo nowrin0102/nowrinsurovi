@@ -11,7 +11,7 @@ category: work
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-    <img  src="{{ '/assets/img/workflow.jpg' | relative_url }}" alt="" title="workflow.png"/>
+    <img width= 400 height = 300  src="{{ '/assets/img/workflow.jpg' | relative_url }}" alt="" title="workflow.png"/>
     </div>
 </div>
 <div class="caption"> WAAM different steps and My focused area </div>
