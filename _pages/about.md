@@ -6,7 +6,7 @@ description: <a href="#">Singapore University of Technology and Design(SUTD)</a>
 
 profile:
   align: right
-  image: nowrin.jpg
+  image: surovi1.png
 <!--  address: >
     <p>+65 91403291</p>
     <p>85 circuit Road</p>
