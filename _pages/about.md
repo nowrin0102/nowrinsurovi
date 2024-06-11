@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am deeply interested in exploring advanced artificial intelligence in the domain of additive manufacturing, with a particular focus on automating design, monitoring, and defect detection processes to enhance efficiency and productivity.
 
-Currently, I am a post-doctoral researcher at the National Institute of Standards and Technology (NIST), a role I began in January 2024. I completed my Ph.D. at the Singapore University of Technology and Design (SUTD) in September 2023. 
+Currently, I am a post-doctoral researcher at the National Institute of Standards and Technology (NIST), a position I have held since January 2024. I completed my Ph.D. from the Singapore University of Technology and Design (SUTD) in September 2023. 
 
 Before pursuing my Ph.D., I served as a Research Assistant at the Bangladesh Council of Scientific and Industrial Research (BCSIR).
 

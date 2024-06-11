@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2024-08-24 07:59:00-0400
+date: 2024-01-24 07:59:00-0400
 inline: true
 ---
 
-Joined National Institute of Standards and Technology (NIST) as a post-doc.
+Joined [National Institute of Standards and Technology (NIST)](https://www.nist.gov/) as a post-doc.
 
 
 
