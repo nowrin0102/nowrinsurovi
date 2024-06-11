@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Singapore University of Technology and Design(SUTD)</a>.
+description: <a href="#">National Institute of Standards and Technology (NIST)</a>.
 
 profile:
   align: right
@@ -16,11 +16,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am deeply interested in exploring advanced artificial intelligence in the domain of additive manufacturing, with a particular focus on automating design, monitoring, and defect detection processes to enhance efficiency and productivity.
 
-Nowrin graduated from SUTD with a PhD in August 2023. Her research interests include Additive Manufacturing, Machine learning, Signal and Image processing.
+Currently, I am a post-doctoral researcher at the National Institute of Standards and Technology (NIST), a role I began in January 2024. I completed my Ph.D. at the Singapore University of Technology and Design (SUTD) in September 2023. 
 
-Prior to that, she was a Research Assistant at the Bangladesh Council of Scientific and Industrial Research (BCSIR). 
- 
+Before pursuing my Ph.D., I served as a Research Assistant at the Bangladesh Council of Scientific and Industrial Research (BCSIR).
 
 
 <a href='assets/pdf/Nowrin_akter_surovi.pdf'>Curriculum Vitae</a>

@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2020-12-21
+date: 2024-05-01
 inline: true
 ---
 
-Passed PhD qualyfing Exam.
+Joined the [31st Annual hashtag NIST Sigma Xi Early-Career Poster Presentation yesterday (ECPP)](https://www.sigmaxiatnist.org/ecpp).
 
 <!--
 layout: post

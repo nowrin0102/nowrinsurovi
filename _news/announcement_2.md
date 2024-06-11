@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2021-04-1 07:59:00-0400
+date: 2024-04-29 07:59:00-0400
 inline: true
 ---
 
-Paper accepted in [International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2021](https://event.asme.org/IDETC-CIE)
+Paper accepted in [International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2024](https://event.asme.org/IDETC-CIE)
 
 
 
