@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2024-01-24 07:59:00-0400
+date: 2025-08-20 07:59:00-0400
 inline: true
 ---
 
-Joined [National Institute of Standards and Technology (NIST)](https://www.nist.gov/) as a post-doc.
+Joined the [International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2025](https://event.asme.org/IDETC-CIE).
 
 
 

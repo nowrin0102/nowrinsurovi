@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2024-05-01
+date: 2025-05-01
 inline: true
 ---
 
-Joined the [31st Annual NIST Sigma Xi Early-Career Poster Presentation (ECPP)](https://www.sigmaxiatnist.org/ecpp).
+Joined the [32st Annual NIST Sigma Xi Early-Career Poster Presentation (ECPP)](https://www.sigmaxiatnist.org/ecpp).
 
 <!--
 layout: post
