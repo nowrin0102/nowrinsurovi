@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2024-04-29 07:59:00-0400
+date: 2025-08-21 07:59:00-0400
 inline: true
 ---
 
-Paper accepted in [International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2024](https://event.asme.org/IDETC-CIE)
+Elected as <strong>Secretary</strong> for the <strong>Systems Engineering, Information, and Knowledge Management (SEIKM)</strong> track at ASME IDETC-CIE for the 2026 leadership team.
 
 
 

@@ -7,4 +7,4 @@ inline: true
 participated and presented paper in [International Conference of Additive Manufacturing for a Better World, 2022](https://amconference.sutd.edu.sg/)
 
 -->
-Received ASME micro grant
+Awarded ASME Micro-grant
